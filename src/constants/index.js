@@ -85,3 +85,34 @@ export const footerLinks = [
   "Legal",
   "Site Map",
 ];
+
+export const imageSlides = [
+  {
+    id: 1,
+    image:
+      "https://i.pinimg.com/564x/fb/7a/c4/fb7ac44c0dab640b1b45467f67e783b0.jpg",
+    alt: "First Slide",
+    textLists: ["First Slide Text 1", "First Slide Text 2"],
+  },
+  {
+    id: 2,
+    image:
+      "https://i.pinimg.com/564x/2a/20/0d/2a200d050d9d8695b981b95c2e70f6aa.jpg",
+    alt: "Second Slide",
+    textLists: ["Second Slide Text 1", "Second Slide Text 2"],
+  },
+  {
+    id: 3,
+    image:
+      "https://i.pinimg.com/564x/88/ab/f3/88abf3e2a6a9952db3bf0e42ceb755b6.jpg",
+    alt: "Third Slide",
+    textLists: ["Third Slide Text 1", "Third Slide Text 2"],
+  },
+  {
+    id: 4,
+    image:
+      "https://i.pinimg.com/564x/99/be/e8/99bee84d62270117a829482d6796aa99.jpg",
+    alt: "Fourth Slide",
+    textLists: ["Fourth Slide Text 1", "Fourth Slide Text 2"],
+  },
+];
